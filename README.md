@@ -14,6 +14,8 @@ Come join us
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/rstormsf/blockchainu-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+[Gitter Apps](https://gitter.im/apps)
+
 <hr>
 
 Donate at
