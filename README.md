@@ -1,6 +1,7 @@
 This is collaboration chat we use for [BlockChain University](http://www.blockchainu.co/)
 
 Come join us
+https://www.reddit.com/r/blockchainu
 https://gitter.im/rstormsf/blockchainu-chat
 
 Donate at
